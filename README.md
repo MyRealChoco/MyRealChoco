@@ -5,14 +5,14 @@
 - 25' 2025 프로그래머스 코드챌린지 2차 예선 146위 (146th/2742)
 
 ### Interest
-- Languages
+- **Languages**
   - C/C++ (For Problem Solving)
   - Java
 
-- Frameworks
+- **Frameworks**
   - Spring / SpringBoot
 
-- Problem Solving
+- **Problem Solving**
   - <a href="https://www.acmicpc.net/user/minwoo0629a">Baekjoon (Gold 1)</a>
 <!--
 **MyRealChoco/MyRealChoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
