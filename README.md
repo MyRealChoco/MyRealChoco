@@ -3,6 +3,7 @@
 ### Achivement
 - 25' 2025 프로그래머스 코드챌린지 1차 예선 263위 (263th/2742)
 - 25' 2025 프로그래머스 코드챌린지 2차 예선 146위 (146th/2742)
+- SCPC 2025 1차 예선 (4 ac / Total 5 problem)
 
 ### Interest
 - **Languages**
