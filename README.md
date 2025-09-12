@@ -1,11 +1,15 @@
 ## MyRealChoco (Kim Min Woo)
 
-### Achivement
-- 25' 2025 프로그래머스 코드챌린지 1차 예선 263위 (263th/2742)
-- 25' 2025 프로그래머스 코드챌린지 2차 예선 146위 (146th/2742)
-- SCPC 2025 1차 예선 (4 ac / Total 5 problem)
+### Contest History
+- 2025 프로그래머스 코드챌린지 1차 예선:  263위 (263th/2742)
+- 2025 프로그래머스 코드챌린지 2차 예선:  146위 (146th/2742)
+- SCPC 2025 1차 예선:  4 Solved / 5 Problems
 
-### Interest
+### Projects
+- 👁‍🗨<a href="https://github.com/newjayyyy/check-mate">CheckMate</a> <sub>2025.03 ~ 2025.06</sub><br>
+공정 현장에서 활용 가능한 부품 불량 탐지 및 안전 장비 착용 여부 확인 시스템
+
+### Interests
 - **Languages**
   - C/C++ (For Problem Solving)
   - Java
@@ -15,6 +19,7 @@
 
 - **Problem Solving**
   - <a href="https://www.acmicpc.net/user/minwoo0629a">Baekjoon (Gold 1)</a>
+
 <!--
 **MyRealChoco/MyRealChoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
