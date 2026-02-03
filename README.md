@@ -1,4 +1,4 @@
-# MyRealChoco (Kim Min Woo) | 👨‍💻 Back-end Developer
+# MyRealChoco (Kim Min Woo) | Back-end Developer
 
 ## 🏆 Contest History
 ### Algorithm
@@ -16,6 +16,11 @@
 
 - 🗓️ <a href="https://github.com/MyRealChoco/ArbeitMate">ArbeitMate</a> <sub>2025.11.01 ~ 2025.12.03</sub><br>
 알바생의 가용시간을 기반으로 자동 근무표를 생성하고, 매장 단위 스케줄 관리 및 급여 계산을 제공하는 아르바이트 관리 시스템
+<br/>
+
+- 🗨 <a href="https://github.com/MyRealChoco/Shirocord">Shirocord</a> <sub>2026.01 ~ </sub><br>
+치지직 Open API를 기반으로 스트리머 방송 상태를 주기적으로 스캔하고,
+방송 ON/OFF 변화를 감지하여 Discord Webhook으로 실시간 알림을 전송하는 서버형 백엔드 시스템
 <hr/>
 
 ## 🛠️ Tech Stack
