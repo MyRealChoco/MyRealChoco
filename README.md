@@ -1,15 +1,5 @@
 # MyRealChoco (Kim Min Woo) | Backend Developer
 
-## 🏆 Contest History
-### Algorithm
-- 2025 프로그래머스 코드챌린지 1차 예선:  **263위 (263th/2742)**
-- 2025 프로그래머스 코드챌린지 2차 예선:  **146위 (146th/2742)**
-- SCPC 2025 1차 예선:  **4 Solved / 5 Problems**
-### Backend
-- 2025 KGU 산학협력 AI‧SW 캡스톤디자인 경진대회 (기초 캡스톤 디자인): **동상**
-
-<hr/>
-
 ## 🚀 Projects
 1. 👁‍🗨 <a href="https://github.com/newjayyyy/check-mate/tree/deploy-backend">CheckMate</a><br/>
 : 공정 현장에서 활용 가능한 부품 불량 탐지 및 안전 장비 착용 여부 확인 시스템
@@ -34,6 +24,17 @@
 : 사진을 업로드하면 멀티 플랫폼(인스타그램, 당근마켓, 네이버 플레이스) 맞춤형 홍보 콘텐츠 생성 및 최적화된 업로드 워크플로우 제공해주는 서비스
 > **Role:** Infra / BE | **Period:** 2026.02 ~  <br>
 > **My Stack:** GCP, Java, Spring Boot, JPA, PostgreSQL, Redis
+
+<hr/>
+
+## 🏆 Contest History
+- 2025 KGU 산학협력 AI‧SW 캡스톤디자인 경진대회 (기초 캡스톤 디자인): **동상**
+
+<hr/>
+
+## 🧩 Activity
+- SW마에스트로 17기 (2026.04 ~ )
+- 경기대학교 컴퓨터공학전공 (2021.03 ~ )
 
 <hr/>
 
@@ -64,12 +65,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-<hr/>
-
-## 🧩 Activity
-- SW마에스트로 17기 (2026.04 ~ )
-- 경기대학교 컴퓨터공학전공 (2021.03 ~ )
 
 <hr/>
 
