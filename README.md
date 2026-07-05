@@ -1,29 +1,30 @@
 # MyRealChoco (Kim Min Woo) | Backend Developer
 
 ## 🚀 Projects
-1. 👁‍🗨 <a href="https://github.com/newjayyyy/check-mate/tree/deploy-backend">CheckMate</a><br/>
-: 공정 현장에서 활용 가능한 부품 불량 탐지 및 안전 장비 착용 여부 확인 시스템
-> **Role:** BE Lead / AI | **Period:** 2025.03 ~ 2025.06 <br>
-> **My Stack:** Java, Spring Boot, JPA, MySQL, AWS S3, FastAPI, Docker
+1. 📢 <a href="https://github.com/jahee24/today-store">TodayStore</a><br/>
+: 사진을 업로드하면 멀티 플랫폼(인스타그램, 당근마켓, 네이버 플레이스) 맞춤형 홍보 콘텐츠 생성 및 최적화된 업로드 워크플로우 제공해주는 서비스
+> **Role:** Infra / BE | **Period:** 2026.02 ~ 2026.06 <br>
+> **My Stack:** GCP, Java, Spring Boot, JPA, PostgreSQL, Redis
 <br/>
 
-2. 🗓️ <a href="https://github.com/MyRealChoco/ArbeitMate">ArbeitMate</a><br/>
-: 알바생의 가용시간 기반 자동 근무표 생성 및 급여 계산을 지원하는 아르바이트 관리 시스템
-> **Role:** BE Lead | **Period:** 2025.11.01 ~ 2025.12.03 <br>
-> **My Stack:** Java, Spring Boot, JPA, MySQL, Firebase Auth, Docker
-<br/>
-
-3. 🗨 <a href="https://github.com/MyRealChoco/Shirocord">Shirocord</a><br/>
+2. 🗨 <a href="https://github.com/MyRealChoco/Shirocord">Shirocord</a><br/>
 : Chzzk Open API를 기반으로 스트리머 방송 상태를 주기적으로 스캔하고,
 방송 ON/OFF 변화 등을 감지하여 Discord Webhook으로 실시간 알림을 전송하는 서버형 백엔드 시스템
 > **Role:** Solo Project (PM, BE) | **Period:** 2026.01 ~ 2026.03 <br>
 > **My Stack:** Java, Spring Boot, WebFlux, JPA, MySQL
 <br/>
 
-4. 📢 <a href="https://github.com/jahee24/today-store">TodayStore</a><br/>
-: 사진을 업로드하면 멀티 플랫폼(인스타그램, 당근마켓, 네이버 플레이스) 맞춤형 홍보 콘텐츠 생성 및 최적화된 업로드 워크플로우 제공해주는 서비스
-> **Role:** Infra / BE | **Period:** 2026.02 ~  <br>
-> **My Stack:** GCP, Java, Spring Boot, JPA, PostgreSQL, Redis
+3. 🗓️ <a href="https://github.com/MyRealChoco/ArbeitMate">ArbeitMate</a><br/>
+: 알바생의 가용시간 기반 자동 근무표 생성 및 급여 계산을 지원하는 아르바이트 관리 시스템
+> **Role:** BE Lead | **Period:** 2025.11.01 ~ 2025.12.03 <br>
+> **My Stack:** Java, Spring Boot, JPA, MySQL, Firebase Auth, Docker
+<br/>
+
+4. 👁‍🗨 <a href="https://github.com/newjayyyy/check-mate/tree/deploy-backend">CheckMate</a><br/>
+: 공정 현장에서 활용 가능한 부품 불량 탐지 및 안전 장비 착용 여부 확인 시스템
+> **Role:** BE Lead / AI | **Period:** 2025.03 ~ 2025.06 <br>
+> **My Stack:** Java, Spring Boot, JPA, MySQL, AWS S3, FastAPI, Docker
+<br/>
 
 <hr/>
 
